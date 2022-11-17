@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890623284891",
+    "project_id": "modul9-adam",
+    "storage_bucket": "modul9-adam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890623284891:android:69bcf0876ecd563505183e",
+        "android_client_info": {
+          "package_name": "com.example.modulfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890623284891-26v9k8oo6ecbnlrkb0ub4mjh9itne6ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiB2tAbSiDpWFk0mjeRqvYxL8kfwXN8Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890623284891-26v9k8oo6ecbnlrkb0ub4mjh9itne6ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
